@@ -1,0 +1,12 @@
+{
+    "Settings": {
+        "RenameRule": "S{season}E{episode} - {title}"
+    },
+
+    "TMDB": {
+        "TMDB_API": "32731ff2961c65563b06e4b87654a0b2",
+        "language": "zh-CN"
+
+    }
+
+}
